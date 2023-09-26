@@ -7,7 +7,7 @@ public class manipulaCadenas3 {
 		
 		String alumno1, alumno2;
 		
-		alumno1 = "David";
+		alumno1 = "Javier";
 		alumno2 = "David";
 		
 		System.out.println(alumno1.equals(alumno2));
